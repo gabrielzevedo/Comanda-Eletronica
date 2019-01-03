@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Comanda Eletrônica</string>
+    <string name="entrar">Entrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="titulo">Controle de Acesso</string>
+    <string name="senha">Senha</string>
+    <string name="sair">Sair</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="consultar_mesa">Consultar Pedidos</string>
+    <string name="fazer_pedido">Fazer pedido</string>
+    <string name="selecionar_mesa">Selecionar mesa</string>
+    <string name="voltar">Voltar</string>
+    <string name="visualizar_comanda">Visualizar comanda</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="confirmar_produto">Confirmar produto</string>
+    <string name="enviar_comanda">Enviar comanda</string>
+    <string name="mesa">Mesa</string>
+    <string name="qtd">Qtd</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="salvar">Salvar</string>
+    <string name="endereco_bd">Endereço do banco de dados</string>
+    <string name="verificar_conexao">Verificar conexão</string>
+    <string name="marcar_concluido">Marcar como concluído</string>
+</resources>
