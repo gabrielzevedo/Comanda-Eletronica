@@ -1,0 +1,8 @@
+1) Instale o Wamp Server ou Xampp se utiliza o Windows.
+1.1) Inicie os serviços Apache e MySQL
+
+2) Copie a pasta "comandaeletronica" para dentro de C:\wamp\www ou C:\xampp\htdocs
+3) Importe o banco de dados "comandaeletronica_dump.sql"
+
+4) Abra o arquivo "conexao.php" e edite as linhas 9, 10 e 11, de acordo com as configurações de seu banco de dados.
+4.1) Para testar, utilize o arquivo "testa_conexao.php"
